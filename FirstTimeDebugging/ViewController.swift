@@ -10,7 +10,7 @@ class ViewController: UIViewController {
         
 //        if false {
             print("Will this line of code ever be reached?")
-            someMethod()
+            someMethod() //perfect
 //        }
         
         
